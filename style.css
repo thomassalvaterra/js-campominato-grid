@@ -58,3 +58,11 @@ footer{
 .evidenziata{
     background-color: cyan;
 }
+
+#btnPlay{
+    width: 100px;
+}
+
+#livelli{
+    width: 100px;
+}
